@@ -1,4 +1,15 @@
 # Goof - Snyk's vulnerable demo app
+
+> **⚠️ Attribution & purpose**
+>
+> This repository is a **copy of [`snyk-labs/nodejs-goof`](https://github.com/snyk-labs/nodejs-goof)**, maintained here **purely for experimentation and learning** (e.g. testing security scanners such as Snyk).
+>
+> - **Original project:** https://github.com/snyk-labs/nodejs-goof
+> - **Original author / maintainer:** [Snyk](https://snyk.io) and the snyk-labs contributors
+> - **License:** see [`LICENSE`](./LICENSE) — all rights and credit for the original work belong to Snyk and the original authors.
+>
+> This copy is **not affiliated with or endorsed by Snyk**. It is intentionally vulnerable and must **never** be deployed to a production or publicly accessible environment. No warranty is provided.
+
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
